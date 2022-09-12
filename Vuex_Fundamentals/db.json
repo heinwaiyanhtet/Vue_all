@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "6da671e6-0b28-4eff-b002-ecbcc9b27ebb",
+      "category": "animal welfare",
+      "title": "House Brushing Place",
+      "description": "a fun event",
+      "location": "New York",
+      "date": "Auguest 18 , 2018",
+      "time": "2:00",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "705ed8a6-fa27-470b-812f-31f8c67ce89d",
+      "category": "animal welfare",
+      "title": "Kaungaroo Counting Competition",
+      "description": "What does this event looks like",
+      "location": "Outback ",
+      "date": "September 4",
+      "time": "3000",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "67a8fac5-1021-4c95-b73a-212dee18b9fa",
+      "category": "",
+      "title": "Learning Luchenon",
+      "description": "a new Event",
+      "location": "New York",
+      "date": "September 15 2014",
+      "time": "12:00",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "65b6056c-a046-47a5-9d0f-2a4573c32f1e",
+      "category": "food",
+      "title": "Community Polluck",
+      "description": "Bring a dish to share",
+      "location": "A covid-free place in the future",
+      "date": "May 20 , 2024",
+      "time": "1:00",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "f5aefa46-b658-466a-a60b-ef19f2a3b393",
+      "category": "nature",
+      "title": "testing ",
+      "description": "just testing",
+      "location": "saw",
+      "date": "11/2/2022",
+      "time": "11:00AM",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "29a61704-85b5-489f-9f0d-c52967c21adf",
+      "category": "housing",
+      "title": "Hello testing",
+      "description": "Why does it have a delay?",
+      "location": "Saw Magway Burma",
+      "date": "11/3/2022",
+      "time": "11:36AM",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "28bfe14b-c854-4e3b-9b8c-aac6b71db268",
+      "category": "animal welfare",
+      "title": "Test Again",
+      "description": "Why you have a delay",
+      "location": "Mandalay Myanmar",
+      "date": "22/2/2022",
+      "time": "22:22",
+      "organizer": "Adam Jahr"
+    }
+  ]
+}
